@@ -56,12 +56,13 @@ Developed a sophisticated recruitment system combining a recommendation engine w
 ### 🔹 [Arabic Dialects Text-to-Image Generation](https://drive.google.com/file/d/1UhvpkatHtDsPB_KJbWYY176mUxs0YJr5/view?usp=sharing)  
 A generative AI project that transforms Arabic dialect text prompts into high-quality images using diffusion models, with detailed evaluation metrics like FID, IS, and CLIP Score to ensure realism and diversity.
 
-### 🔹 More Freelance Projects on Upwork : https://www.upwork.com/freelancers/eslamahmed87 
-Explore my professional work on Upwork:
-- [Detailed Portfolio & Case Studies](https://www.upwork.com/freelancers/eslamahmed87)
 
 ### 🔹 [Colorize Your Grayscale Images Using DeOldify and Gradio](https://www.educative.io/projects/colorize-your-grayscale-images-using-deoldify-and-gradio)  
 An educational computer vision project that brings color to black and white images using the DeOldify framework paired with a user-friendly Gradio interface for interactive demonstrations.
+
+### 🔹 More Freelance Projects on Upwork : 
+Explore my professional work on Upwork:
+- [Detailed Portfolio & Case Studies](https://www.upwork.com/freelancers/eslamahmed87)
 
 ---
 
