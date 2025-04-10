@@ -1,7 +1,7 @@
 # Hi, I'm Eslam Ahmed Abdelrahman 👋
 
 🚀 **Driving Innovation Through AI & Machine Learning**  
-I'm an Applied Scientist at **Microsoft** and an AI & Machine Learning Instructor and Author at top institutions like **Udacity** and **Educative**. With two master’s degrees in AI and IoT, I leverage cutting-edge technologies to build intelligent systems that transform user experiences.
+I'm an **Applied Scientist II** at **Microsoft** and an AI & Machine Learning Instructor and Author at top institutions like **Udacity** and **Educative**. With two master’s degrees in AI and IoT, I leverage cutting-edge technologies to build intelligent systems that transform user experiences.
 
 ---
 
