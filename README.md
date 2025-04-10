@@ -70,7 +70,7 @@ Explore my professional work on Upwork:
 
 - **GitHub:** [github.com/eslamahmed235](https://github.com/eslamahmed235)
 - **Upwork:** [upwork.com/freelancers/eslamahmed87](https://www.upwork.com/freelancers/eslamahmed87)
-- **LinkedIn:** *[(https://www.linkedin.com/in/eslamahmed235/)])*
+- **LinkedIn:** [linkedin.com/in/eslamahmed235](https://www.linkedin.com/in/eslamahmed235)
 - **Email:** [eslamahme@gmail.com](mailto:eslamahme@gmail.com)
 
 
