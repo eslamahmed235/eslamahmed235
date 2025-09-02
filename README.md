@@ -1,5 +1,7 @@
 # Hi, I'm Eslam Ahmed Abdelrahman 👋
 
+- **My CV** : https://drive.google.com/file/d/1lttWNYQRHNSEGLk3z0VxfdeoPscEGrHn/view?usp=sharing
+  
 🚀 **Driving Innovation Through AI & Machine Learning**  
 I'm an **Applied Scientist II** at **Microsoft** and an AI & Machine Learning Instructor and Author at top institutions like **Udacity** and **Educative**. With two master’s degrees in AI and IoT, I leverage cutting-edge technologies to build intelligent systems that transform user experiences.
 
@@ -72,6 +74,7 @@ Explore my professional work on Upwork:
 - **Upwork:** [upwork.com/freelancers/eslamahmed87](https://www.upwork.com/freelancers/eslamahmed87)
 - **LinkedIn:** [linkedin.com/in/eslamahmed235](https://www.linkedin.com/in/eslamahmed235)
 - **Email:** [eslamahme@gmail.com](mailto:eslamahme@gmail.com)
+
 
 
 *I’m passionate about transforming complex AI theories into tangible, innovative solutions. Let's collaborate and drive the future of AI together!*
