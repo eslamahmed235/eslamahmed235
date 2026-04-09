@@ -7,7 +7,7 @@
   <a href="https://eslam-web-profile.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
   <a href="https://www.credly.com/users/eslam-ahmed-abdelrahman"><img src="https://img.shields.io/badge/Credly-FF6B00?style=for-the-badge&logo=credly&logoColor=white" alt="Certifications"/></a>
   <a href="mailto:eslamahme@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-  <a href="https://drive.google.com/file/d/1lttWNYQRHNSEGLk3z0VxfdeoPscEGrHn/view?usp=sharing"><img src="https://img.shields.io/badge/Download_CV-4285F4?style=for-the-badge&logo=googledrive&logoColor=white" alt="CV"/></a>
+  <a href="https://drive.google.com/file/d/1HP3B2cLQ3qVeezeCBhjwGw83DnLJebtU/view?usp=sharing"><img src="https://img.shields.io/badge/Download_CV-4285F4?style=for-the-badge&logo=googledrive&logoColor=white" alt="CV"/></a>
 </p>
 
 <p align="center">
@@ -61,7 +61,7 @@ AI-powered contract review system that analyzes employment clauses against Saudi
 ### 🔹 [WzGATE — Smart Real Estate Conversational AI](https://wzgatechatbot-beta.streamlit.app/)
 Dual-mode chatbot using LangGraph with dynamic routing between property-specific and general knowledge RAG subgraphs. Integrated with WhatsApp via Twilio.
 
-`LangGraph` `FAISS` `RAG` `TavilyAPI` `Twilio` `FastAPI` · [Documentation](https://www.notion.so/1a6d5b84794b8088bbaed0a14c5f86f9?v=1a6d5b84794b81589ed4000ca0ea3615&pvs=4)
+`LangGraph` `FAISS` `RAG` `TavilyAPI` `Twilio` `FastAPI` ·
 
 ### 🔹 [KFSC Edu Assist — Arabic Academic RAG Assistant](https://www.upwork.com/freelancers/eslamahmed87)
 RAG system for Arabic academic content with custom normalization and semantic chunking. Achieved >95% context recall and >86% faithfulness evaluated via RAGAS.
